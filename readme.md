@@ -1,3 +1,6 @@
+![Website Preview](assets/images/preview.png)
+
+
 # AssetSonar – Software Asset Management Landing Page Theme
 
 A custom WordPress theme built to promote the new **"Software Asset Management"** feature of **AssetSonar**, an IT Asset Management platform designed for growing IT teams.
